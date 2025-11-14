@@ -17,6 +17,7 @@ int main() {
     printf("sample statement");
     printf("totoong sample statement");
     printf("sample statement ni dev");
+    printf("sample statement ni sample task");
 
 
     return 0;
