@@ -16,6 +16,7 @@ int main() {
     printf("Name: %s\n", name);
     printf("sample statement");
     printf("totoong sample statement");
+    printf("sample statement ni dev");
 
 
     return 0;
