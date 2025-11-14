@@ -17,6 +17,7 @@ int main() {
     printf("sample statement");
     printf("totoong sample statement");
     printf("sample statement ni dev");
-    printf("sample statement para sa pull")
+    printf("sample statement ni sample task");
+    printf("sample statement para sa git pull");
     return 0;
 }
