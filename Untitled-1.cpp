@@ -15,6 +15,7 @@ int main() {
     printf("Final Output: %.4f\n", FinalOutput);
     printf("Name: %s\n", name);
     printf("sample statement");
+    printf("totoong sample statement");
 
 
     return 0;
